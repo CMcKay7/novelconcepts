@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Novel Concepts
+
+Novel Concepts is a simple note keeping web application similar in function to Google's Google Keep. Made primarily in React, users are able to title, create, and delete any notes created. Custom React components utilizing the 'props' attribute allow for the ability to change and use state, ensuring that any changes made in text areas are rendered in real time, eliminating the need to constantly refresh the application to properly render any changes. Additional styling using CSS and custom libraries like MaterialUI modernize the display of the application.
+
 ## Available Scripts
 
 In the project directory, you can run:
