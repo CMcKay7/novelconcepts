@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Novel Concepts is a simple note keeping web application similar in function to Google's Google Keep. Made primarily in React, users are able to title, create, and delete any notes created. Custom React components utilizing the 'props' attribute allow for the ability to change and use state, ensuring that any changes made in text areas are rendered in real time, eliminating the need to constantly refresh the application to properly render any changes. Additional styling using CSS and custom libraries like MaterialUI modernize the display of the application.
 
+Novel Concepts is available at https://vermillion-daifuku-c25e86.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
